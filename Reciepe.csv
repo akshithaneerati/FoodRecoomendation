@@ -1,0 +1,30 @@
+Name,Recipe_Id,Ingredients,Calories,Food type,Veg/nonveg
+Raw Banana Fry,1,Banana,400, Snacks , Veg 
+Payasam,2,Vermicelli  jaggery   ghee  cocunutmilk,500, Desserts , Veg 
+Soy Dal Paratha,3,Flour  soyachunks  ghee  mongdal,460, Starters  MainCourse , Veg 
+Aloo Palak Paratha,4,Flour  ghee  potato  spinach  cheese,350, Starters  MainCourse , Veg 
+Chettinad Chicken Biryani,5,Chicken  tomatoes  yogurt  tomatoes  onions,250, MainCourse , Nonveg 
+AndhraStyleTomatoChutney,6,Tomatoes  mustard,500, Starters ,Veg 
+Soya Chana Dal Bhurji,7,Soya  onions  tomato  lemonjuice,520, MainCourse ,Veg 
+Chicken Kothu Paratha,8,Paratha  chickencurry  shreddedchicken,400, Starters  MainCourse ,Nonveg 
+Masoor Dal Kichidi,9,Masoordal  onion  tomato  rice,410, MainCourse ,Veg 
+Banana Kheer,10,Banana  jaggery  nuts,280, Desserts ,Veg 
+Banana Appam,11,Banana  riceflour  jaggery  coconut,450, Breakfast ,Veg 
+Paneer Paratha,12,Paneer  wheatflour  onion  ghee,320, Starters  MainCourse ,Veg 
+Palak Paneer Lifafa,13,Wheatflour  cornflour  paneer  spinach  ghee  onion,340, Starters ,Veg 
+Chicken Egg Parantha Roll,14,Wheatflour  chicken  yogurt  lemonjuice  mayonnaise  tomatoketchup  egg,120, Starters  Snacks ,Nonveg 
+Tangy Tamaring Prawn curry,15,Prawns  onion  tomato  ,130, MainCourse ,Nonveg 
+Andhra Style Guntur Idli,16,Idli  chanadal  uraddal  gunturchillies,290, Breakfast ,Veg 
+Hyderabadi Veg Dalcha,17,Chanadal  onion  tomatoes  ghee,456, MainCourse ,Veg 
+Phool Makhane Kheer,18,Makhana  milk  ghee  sugar,280, Desserts ,Veg 
+Masala Tomato Upma,19,Fuji  onion  tomato  carrot  ghee,190, Breakfast ,Veg 
+Hyderabadi Dum Chai,20,Tealeaves  milk,630, Snacks  Breakfast ,Veg 
+Butter Chicken Kulcha,21,Kulchas  chicken  tomato  onion,200, Starters ,Nonveg 
+Paneer Butter Masala,22,Paneer  butter  onions  tomato,120, Starters  MainCourse ,Veg 
+Butter Chicken curry,23,Chicken   butter  onion  tomato,420, Starters  MainCourse ,Nonveg 
+Chana dal pulao,24,Rice  chanadal  onion  tomato,320, Starters ,Veg 
+Keema Naan,25,Mutton  maida  onion  chilli,123, Starters ,Nonveg 
+Palak Vada,26,Spinach  greenchilli  chanadal  mangopowder,132, Breakfast ,Veg 
+Kadai Paneer,27,Paneer   capsicum  onion  redchilli,145, MainCourse ,Veg 
+Shahi Paneer,28,Paneer  yogurt  nuts  cheese,172, MainCourse ,Veg 
+Matar paneer,29,Greenpeas  paneer  cheese  onion,198, MainCourse ,Veg 
